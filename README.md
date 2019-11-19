@@ -1,1 +1,1 @@
-# Lauren Bullen's Portfolio using Greyscale by Bootstrap
+# Lauren Bullen's Portfolio 
